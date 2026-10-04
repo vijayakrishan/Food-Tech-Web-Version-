@@ -1,0 +1,12 @@
+{
+    "mae": 0.028276573240438873,
+    "rmse": 0.034191562995909947,
+    "r2": 0.9117326764801957,
+    "classification_accuracy": 0.925,
+    "classification_precision": 0.9377777777777778,
+    "classification_recall": 0.9612756264236902,
+    "classification_f1": 0.9493813273340832,
+    "training_date": "2026-10-04T20:43:09.299300",
+    "dataset_size": 6000,
+    "model_version": "1.0.0"
+}

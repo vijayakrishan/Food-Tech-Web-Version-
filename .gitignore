@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+*/node_modules/
+frontend/node_modules/
+target/
+*/target/
+backend/target/
+__pycache__/
+*/__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build
+dist/
+build/
+*.jar
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*/logs/
+
+# Temporary files
+frontend/scaffold*.js
+frontend/update-app.js
+*.tmp
+
+# Docker
+mysql_data/
